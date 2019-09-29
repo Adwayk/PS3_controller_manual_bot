@@ -157,6 +157,10 @@ def clear_all_buttons():
 	front_left = 0
 	global front_right
 	front_right = 0
+	global lt1
+	lt1 = 0
+	global rt1 
+	rt1 = 0
 
 
 def clear_all_hats():
